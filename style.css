@@ -1,0 +1,31 @@
+.section {
+    border: 3px solid #3f3f3f;
+}
+
+#about-section {
+    background-color: lightgoldenrodyellow;
+}
+
+#like-section {
+    background-color: lightcoral;
+}
+
+#type-section {
+    background-color: lightcyan;
+}
+
+#hello-section {
+    background-color: mediumspringgreen;
+}
+
+#happy-section {
+    background-color: gold;
+}
+
+#shy-section {
+    background-color: pink;
+}
+
+#video-section {
+    background-color: peachpuff;
+}
